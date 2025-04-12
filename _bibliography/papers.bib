@@ -1,115 +1,70 @@
----
----
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@misc{noble2024learned,
+  title        = {Learned Reference Diffusion-based Sampling for multi-modal distributions},
+  author       = {Maxence Noble* and Louis Grenioux* and Marylou Gabrié and Alain Durmus},
+  year         = 2024,
+  abbr         = {Submitted},
+  abstract     = {Over the past few years, several approaches utilizing score-based diffusion have been proposed to sample from probability distributions, that is without having access to exact samples and relying solely on evaluations of unnormalized densities. The resulting samplers approximate the time-reversal of a noising diffusion process, bridging the target distribution to an easy-to-sample base distribution. In practice, the performance of these methods heavily depends on key hyperparameters that require ground truth samples to be accurately tuned. Our work aims to highlight and address this fundamental issue, focusing in particular on multi-modal distributions, which pose significant challenges for existing sampling methods. Building on existing approaches, we introduce Learned Reference-based Diffusion Sampler (LRDS), a methodology specifically designed to leverage prior knowledge on the location of the target modes in order to bypass the obstacle of hyperparameter tuning. LRDS proceeds in two steps by (i) learning a reference diffusion model on samples located in high-density space regions and tailored for multimodality, and (ii) using this reference model to foster the training of a diffusion-based sampler. We experimentally demonstrate that LRDS best exploits prior knowledge on the target distribution compared to competing algorithms on a variety of challenging distributions.},
+  pdf          = {https://arxiv.org/pdf/2410.19449},
+  selected     = {true}
 }
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@misc{grenioux2024stochastic,
+  title        = {Stochastic Localization via Iterative Posterior Sampling},
+  author       = {Louis Grenioux* and Maxence Noble* and Marylou Gabrié and Alain Durmus},
+  year         = 2024,
+  journal      = {International Machine Learning Society (ICML)},
+  abbr         = {ICML},
+  abstract     = {Building upon score-based learning, new interest in stochastic localization techniques has recently emerged. In these models, one seeks to noise a sample from the data distribution through a stochastic process, called observation process, and progressively learns a denoiser associated to this dynamics. Apart from specific applications, the use of stochastic localization for the problem of sampling from an unnormalized target density has not been explored extensively. This work contributes to fill this gap. We consider a general stochastic localization framework and introduce an explicit class of observation processes, associated with flexible denoising schedules. We provide a complete methodology, Stochastic Localization via Iterative Posterior Sampling (SLIPS), to obtain approximate samples of these dynamics, and as a by-product, samples from the target distribution. Our scheme is based on a Markov chain Monte Carlo estimation of the denoiser and comes with detailed practical guidelines. We illustrate the benefits and applicability of SLIPS on several benchmarks, including Gaussian mixtures in increasing dimensions, Bayesian logistic regression and a high-dimensional field system from statistical-mechanics.},
+  pdf          = {https://arxiv.org/pdf/2402.10758},
+  code         = {https://github.com/h2o64/slips},
+  slides       = {https://docs.google.com/presentation/d/1YuPxYsXS8B5iPSkz9oKlvBHXe1W-C_he41cX1jErLiM/edit?usp=sharing},
+  award        = {This paper has been selected as a spotlight-designated paper at the conference. Top 3.5% acceptance rate.},
+  award_name   = {Spotlight},
+  selected     = {true}
 }
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@misc{noble2024tree,
+  title        = {Tree-based Diffusion Schr{\"o}dinger Bridge with Applications to Wasserstein Barycenters},
+  author       = {Maxence Noble and Valentin De Bortoli and Arnaud Doucet and Alain Durmus},
+  year         = 2023,
+  journal      = {Conference on Neural Information Processing Systems (NeurIPS)},
+  abbr         = {NeurIPS},
+  abstract     = {Multi-marginal Optimal Transport (mOT), a generalization of OT, aims at minimizing the integral of a cost function with respect to a distribution with some prescribed marginals. In this paper, we consider an entropic version of mOT with a tree-structured quadratic cost, i.e., a function that can be written as a sum of pairwise cost functions between the nodes of a tree. To address this problem, we develop Tree-based Diffusion Schrödinger Bridge (TreeDSB), an extension of the Diffusion Schrödinger Bridge (DSB) algorithm. TreeDSB corresponds to a dynamic and continuous state-space counterpart of the multimarginal Sinkhorn algorithm. A notable use case of our methodology is to compute Wasserstein barycenters which can be recast as the solution of a mOT problem on a star-shaped tree. We demonstrate that our methodology can be applied in high-dimensional settings such as image interpolation and Bayesian fusion.},
+  pdf          = {https://arxiv.org/pdf/2305.16557},
+  code         = {https://github.com/maxencenoble/tree-diffusion-schrodinger-bridge},
+  slides       = {TreeDSB_slides.pdf},
+  award        = {This paper has been selected as a spotlight-designated paper at the conference. Top 3.6% acceptance rate.},
+  award_name   = {Spotlight},
+  selected     = {true}
 }
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
+@misc{greco2023non,
+  title        = {Non-asymptotic convergence bounds for Sinkhorn iterates and their gradients: a coupling approach},
+  author       = {Giacomo Greco and Maxence Noble and Giovanni Conforti and Alain Durmus},
+  year         = 2023,
+  journal      = {Annual Conference on Learning Theory (COLT)},
+  abbr         = {COLT},
+  abstract     = {Computational optimal transport (OT) has recently emerged as a powerful framework with applications in various fields. In this paper we focus on a relaxation of the original OT problem, the entropic OT problem, which allows to implement efficient and practical algorithmic solutions, even in high dimensional settings. This formulation, also known as the Schrödinger Bridge problem, notably connects with Stochastic Optimal Control (SOC) and can be solved with the popular Sinkhorn algorithm. In the case of discrete-state spaces, this algorithm is known to have exponential convergence; however, achieving a similar rate of convergence in a more general setting is still an active area of research. In this work, we analyze the convergence of the Sinkhorn algorithm for probability measures defined on the d-dimensional torus 𝕋dL, that admit densities with respect to the Haar measure of 𝕋dL. In particular, we prove pointwise exponential convergence of Sinkhorn iterates and their gradient. Our proof relies on the connection between these iterates and the evolution along the Hamilton-Jacobi-Bellman equations of value functions obtained from SOC-problems. Our approach is novel in that it is purely probabilistic and relies on coupling by reflection techniques for controlled diffusions on the torus.},
+  pdf          = {https://arxiv.org/pdf/2304.06549},
+  selected     = {false}
 }
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@misc{noble2024unbiased,
+  title        = {Unbiased constrained sampling with Self-Concordant Barrier Hamiltonian Monte Carlo},
+  author       = {Maxence Noble and Valentin De Bortoli and Alain Durmus},
+  year         = 2023,
+  journal      = {Conference on Neural Information Processing Systems (NeurIPS)},
+  abbr         = {NeurIPS},
+  abstract     = {In this paper, we propose Barrier Hamiltonian Monte Carlo (BHMC), a version of the HMC algorithm which aims at sampling from a Gibbs distribution π on a manifold M, endowed with a Hessian metric 𝔤 derived from a self-concordant barrier. Our method relies on Hamiltonian dynamics which comprises 𝔤. Therefore, it incorporates the constraints defining M and is able to exploit its underlying geometry. However, the corresponding Hamiltonian dynamics is defined via non separable Ordinary Differential Equations (ODEs) in contrast to the Euclidean case. It implies unavoidable bias in existing generalization of HMC to Riemannian manifolds. In this paper, we propose a new filter step, called "involution checking step", to address this problem. This step is implemented in two versions of BHMC, coined continuous BHMC (c-BHMC) and numerical BHMC (n-BHMC) respectively. Our main results establish that these two new algorithms generate reversible Markov chains with respect to π and do not suffer from any bias in comparison to previous implementations. Our conclusions are supported by numerical experiments where we consider target distributions defined on polytopes.},
+  pdf          = {https://arxiv.org/pdf/2210.11925},
+  code         = {https://github.com/maxencenoble/barrier-hamiltonian-monte-carlo},
+  slides       = {BHMC_slides.pdf},
+  selected     = {true}
 }
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
+@misc{noble2022differentially,
+  title        = {Differentially private Federated Learning on heterogeneous data},
+  author       = {Maxence Noble and Aurélien Bellet and Aymeric Dieuleveut},
+  year         = 2022,
+  journal      = {International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  abbr         = {AISTATS},
+  abstract     = {Federated Learning (FL) is a paradigm for large-scale distributed learning which faces two key challenges: (i) efficient training from highly heterogeneous user data, and (ii) protecting the privacy of participating users. In this work, we propose a novel FL approach (DP-SCAFFOLD) to tackle these two challenges together by incorporating Differential Privacy (DP) constraints into the popular SCAFFOLD algorithm. We focus on the challenging setting where users communicate with a "honest-but-curious" server without any trusted intermediary, which requires to ensure privacy not only towards a third-party with access to the final model but also towards the server who observes all user communications. Using advanced results from DP theory, we establish the convergence of our algorithm for convex and non-convex objectives. Our analysis clearly highlights the privacy-utility trade-off under data heterogeneity, and demonstrates the superiority of DP-SCAFFOLD over the state-of-the-art algorithm DP-FedAvg when the number of local updates and the level of heterogeneity grow. Our numerical results confirm our analysis and show that DP-SCAFFOLD provides significant gains in practice.},
+  pdf          = {https://arxiv.org/pdf/2111.09278},
+  code         = {https://github.com/maxencenoble/Differential-Privacy-for-Heterogeneous-Federated-Learning},
+  selected     = {true}
 }

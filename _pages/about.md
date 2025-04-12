@@ -2,16 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: portrait.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +16,8 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello ! I am currently a third-year PhD candidate in Machine Learning at [Centre de Mathématiques Appliquées](https://cmap.ip-paris.fr/) (CMAP) at [École Polytechnique](https://www.polytechnique.edu/), advised by [Alain Durmus](https://alain.perso.math.cnrs.fr/). Prior to this, I graduated with a MSc. degree in Applied Mathematics from École Polytechnique ("[Cycle Ingénieur](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien)") and a MRes. degree in Mathematics, Vision and Learning ("[MVA](https://www.master-mva.com/)") from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in the study of problems at the intersection of generative modelling, sampling, dynamic optimal transport and stochastic optimal control (with a special focus on the **Schrödinger Bridge** problem and **score-based diffusion models**). I am humbly contributing to propose new theoretical perspectives on these subjects as well as developing large-scale algorithms for applications.

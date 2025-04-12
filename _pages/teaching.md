@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+#### [MVA Master of Research](https://www.master-mva.com/), ENS Paris-Saclay (2023-2024)
+
+Teaching assistant for Computational Statistics course.
+
+#### [Master of Science : Data Science for Business](https://programmes.polytechnique.edu/en/master/programs/data-science-for-business-joint-degree-with-hec), Ecole Polytechnique (2022-2024)
+
+Teaching assistant for Machine Learning, Statistics, Optimization,and Linear Algebra courses.
+
+#### Bachelor of Science, Ecole Polytechnique (2022-2023)
+
+Teaching assistant for general Mathematics courses.
