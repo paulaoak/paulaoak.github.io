@@ -5,6 +5,7 @@ github_users:
   - maxencenoble
 
 github_repos:
+  - h2o64/sde_sampler_lrds
   - h2o64/slips
   - maxencenoble/barrier-hamiltonian-monte-carlo
   - maxencenoble/tree-diffusion-schrodinger-bridge

@@ -19,9 +19,11 @@
         - Generative modelling, sampling, Schrödinger Bridge, dynamic optimal transport, stochastic optimal control, diffusion models, Markov Chain Monte Carlo methods.
         - title: Papers
           contents:
-            - 2 NeuRIPS papers
+            - 1 ICLR workshop paper
+            - 1 ICLR paper
             - 1 ICML paper
             - 1 COLT paper
+            - 2 NeuRIPS papers
     - title: MRes. in Mathematics, Vision and Learning ("MVA")
       institution: École Normale Supérieure (ENS), Paris-Saclay, France
       year: 2021-2022
@@ -40,6 +42,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist Intern
+      institution: <a href="https://www.jasper.ai/">Jasper AI</a>, StationF, Paris, France
+      year: 2025-now
+      description:
+        - Affiliated to the Clipdrop team (previously part of Stability AI)
+        - Working on speeding up the inference of diffusion models for large-scale image restoration tasks.
     - title: Research Intern
       institution: <a href="https://csd.ens.psl.eu/">Center for Data Science</a>, ENS Ulm, Paris, France
       year: 2022
@@ -72,18 +80,21 @@
 - title: Reviewing
   type: time_table
   contents:
-    - year: 2022
+    - year: 2025
       description:
-        - NeurIPS
-    - year: 2023
-      description:
-        - AISTATS, ICML, NeurIPS (<b>Top Reviewer</b>), UAI, TMLR
+        - ICLR, FPI @ICLR, NeurIPS
     - year: 2024
       description:
         - ICML (<b>Top Reviewer</b>), NeurIPS, TMLR
-    - year: 2025
+    - year: 2023
       description:
-        - ICLR
+        - AISTATS, SPIGM @ICML, NeurIPS (<b>Top Reviewer</b>), UAI, TMLR
+    - year: 2022
+      description:
+        - NeurIPS
+
+
+
 
 - title: Other Interests
   type: list
