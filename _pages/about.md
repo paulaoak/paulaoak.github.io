@@ -20,7 +20,7 @@ announcements:
 
 Hello ! I am a second-year PhD candidate in Statistics and Machine Learning at Imperial College London and the University of Oxford, where I am fortunate to be advised by [Andrew Duncan](https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en) and [Deniz Akyildiz](https://akyildiz.me/). 
 
-Before starting my PhD, I completed a double BSc. degree in ([Mathematics and Physics at Universidad Complutense de Madrid](https://www.elespanol.com/reportajes/20210605/fisica-matematicas-doble-empresas-rifaran-ismael-paula/586442818_0.html)). I then pursued an MSc. in Machine Learning at Universidad Politécnica de Madrid and an MSc. in  ("[Statistics at Imperial College London](https://youtu.be/55vNkwPdUs8)").
+Before starting my PhD, I completed a double BSc. degree in [Mathematics and Physics at Universidad Complutense de Madrid](https://www.elespanol.com/reportajes/20210605/fisica-matematicas-doble-empresas-rifaran-ismael-paula/586442818_0.html). I then pursued an MSc. in Machine Learning at Universidad Politécnica de Madrid and an MSc. in  [Statistics at Imperial College London](https://youtu.be/55vNkwPdUs8).
 
 **Open to Opportunities**. I am seeking research internships for summer 2026. Please feel free to reach out!
 
