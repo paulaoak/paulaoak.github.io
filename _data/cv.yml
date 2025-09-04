@@ -11,61 +11,77 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Machine Learning
-      institution: CMAP, École Polytechnique, Palaiseau, France
-      year: 2022-now
+    - title: PhD in Statistics and Machine Learning
+      institution: Imperial College London and University of Oxford, UK
+      year: 2023-now
       description:
-        - Under the supervision of <a href="https://alain.perso.math.cnrs.fr/">Alain Durmus</a>.
-        - Generative modelling, sampling, Schrödinger Bridge, dynamic optimal transport, stochastic optimal control, diffusion models, Markov Chain Monte Carlo methods.
+        - Under the supervision of <a href="https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en">Andrew Duncan</a> and <a href="https://akyildiz.me/">Deniz Akyildiz</a>.
+        - Generative modelling, sampling, machine learning theory, diffusion models, Markov Chain Monte Carlo methods, SDEs, AI4Science.
+        - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>)}.
+        - Teaching Assistant: Computational Statistics, Statistical Modelling, Probability, Calculus.
         - title: Papers
           contents:
             - 1 ICLR workshop paper
-            - 1 ICLR paper
-            - 1 ICML paper
-            - 1 COLT paper
-            - 2 NeuRIPS papers
-    - title: MRes. in Mathematics, Vision and Learning ("MVA")
-      institution: École Normale Supérieure (ENS), Paris-Saclay, France
-      year: 2021-2022
+            - 1 AISTATS paper
+            - 1 UAI paper (Oral)
+    - title: MSc. in Statistics
+      institution: Imperial College London, UK
+      year: 2022-2023
       description:
-        - Distinctions with jury’s congratulations.
-        - Generative modelling, Bayesian Machine Learning,
-          Computational statistics, Optimal Transport, Probabilistic Graphical models.
-    - title: MSc. in Applied Mathematics ("Ingénieur Polytechnicien")
-      institution: École Polytechnique, Palaiseau, France
-      year: 2018 - 2021
+        - Top 1\%, Winton prize for the best student in the MSc.
+        - La ``Caixa'' Fellowship (Competitive scholarship awarded to only 100 scholars across all disciplines from all over Spain and Portugal to fully fund their studies).
+        - MSc student representative.
+    - title: MSc. in Artificial Intelligence 
+      institution: Universidad Politécnica de Madrid, Spain
+      year: 2021 - 2022
       description:
-        - GPA 3.93/4, top 10% of all students.
-        - Statistics, Optimization, Advanced Machine learning, Statistical
-          modelling, Monte Carlo simulations, Stochastic calculus.
+        - José Cuena Award (Top student of the year 9.74/10).
+        - Scholarship for collaboration in university departments (Spanish Ministry of Education).
+    - title: BSc. in Mathematics and Physics (Double Degree) 
+      institution: Universidad Complutense de Madrid, Spain
+      year: 2016 - 2021
+      description:
+        - Average grade: 9.16/10 (6 subjects with the “With honours” distinction).
+        - Top 5% of the cohort. “Comunidad de Madrid” Excellence Prize.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Scientist Intern
-      institution: <a href="https://www.jasper.ai/">Jasper AI</a>, StationF, Paris, France
-      year: 2025-now
+    - title: AI Research Intern
+      institution: Evotrack, London, UK
+      year: 2023 (Summer)
       description:
-        - Affiliated to the Clipdrop team (previously part of Stability AI)
-        - Working on speeding up the inference of diffusion models for large-scale image restoration tasks.
-    - title: Research Intern
-      institution: <a href="https://csd.ens.psl.eu/">Center for Data Science</a>, ENS Ulm, Paris, France
+        - Support the R&D team to create a real-time cloud-based application of their existing machine
+          learning models. Participate in research activities on electric vehicle charging infrastructure usage
+          forecasting services. Run simulations to identify better fleet management strategies.
+        - June 2023-September 2023.
+    - title: Machine Learning Research Intern
+      institution: <a href="https://www.titaniumindustrialsecurity.com/index_en.html">Titanium Industrial Cybersecurity</a>, Madrid, Spain
       year: 2022
       description:
-        - Under the supervision of <a href="https://vdeborto.github.io/">Valentin de Bortoli</a>.
-        - Worked on sampling algorithms for constrained spaces with self-concordant barriers.
+        - Development of a complex machine learning model to detect different types of cyber attacks, with
+          a particular focus on the network lateral movement attack, which is a very difficult cyber attack
+          to detect due to its sophisticated nature.
+        - January 2022-July 2022.
     - title: Research Intern
-      institution: CMAP, École Polytechnique, Palaiseau & INRIA Lille, France
+      institution: <a href="https://www.icfo.eu/">Institute of Photonic Sciences, ICFO</a>, Barcelona, Spain
       year: 2021
       description:
-        - Under the supervision of <a href="http://www.cmap.polytechnique.fr/~aymeric.dieuleveut/">Aymeric Dieuleveut</a> and <a href="http://researchers.lille.inria.fr/abellet/">Aurélien Bellet</a>.
-        - Worked on federated learning comprising concerns about privacy and data heterogeneity.
+        - ICFO Summer Fellowship. Data analysis for the development and optimization of a portable real-
+          time monitoring platform for the assessment of Covid-19 in the Medical Optics research group.
+        - June 2021-September 2021.
 
-    - title: Data Scientist Intern
-      institution: <a href="https://www.deepki.com/">Deepki</a>, Paris, France
-      year: 2020
+    - title: Quantum Computing Research Intern
+      institution: <a href="https://quinfog.hbar.es/">Institute of Fundamental Physics, IFF CSIC</a>, Madrid, Spain
+      year: 2020-2021
       description:
-        - Worked with the R&D team on improving data completeness in the collection and use of energy consumption invoices (scraping & parsing).
+        - Under the supervision of <a href="https://scholar.google.com/citations?user=GBsr9DIAAAAJ&hl=en">Carlos Sabín</a>.
+        - JAE - INTRO 2020 Fellowship. Project on quantum computation and quantum information. Study
+          of state-of-the-art techniques in quantum computation and information, execution of high quality
+          simulations on IBM quantum computers using the Qiskit package in Python, application of quantum
+          methods to optimisation problems and study of quantum machine learning concepts.
+        - Research outcome was published in <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.052609">Physical Review A</a>.
+        - September 2020-June 2021.
 
 - title: Honors and Awards
   type: time_table
@@ -77,7 +93,7 @@
       items:
         - Awarded the Ecole Polytechnique Research Centre Prize in Applied Mathematics.
 
-- title: Reviewing
+- title: Talks
   type: time_table
   contents:
     - year: 2025
@@ -95,8 +111,7 @@
 
 
 
-
 - title: Other Interests
   type: list
   contents:
-    - Crossfit, Hyrox, Swimming, Cooking, Cinema.
+    - Running, Swimming, Dancing, Reading.
