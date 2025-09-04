@@ -28,7 +28,7 @@
       year: 2022-2023
       description:
         - Top 1\%, Winton prize for the best student in the MSc.
-        - La ``Caixa'' Fellowship (Competitive scholarship awarded to only 100 scholars across all disciplines from all over Spain and Portugal to fully fund their studies).
+        - <a href="https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787">La ``Caixa'' Fellowship</a> (Competitive scholarship awarded to only 100 scholars across all disciplines from all over Spain and Portugal to fully fund their studies).
         - MSc student representative.
     - title: MSc. in Artificial Intelligence 
       institution: Universidad Politécnica de Madrid, Spain
@@ -85,28 +85,51 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Finalist for the Mathematics category at STEM for BRITAIN 2025, House of Parliament.
+    - year: 2024, 2025
+      items:
+        - Best research poster at the department's PhD symposium 2024, 2025, Imperial College London.
     - year: 2022
       items:
-        - Awarded a selective PhD scholarship by Ecole Polytechnique.
-    - year: 2021
-      items:
-        - Awarded the Ecole Polytechnique Research Centre Prize in Applied Mathematics.
+        - <a href="https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787">‘la Caixa’ Foundation Fellowship</a>
+        - Full fellowship for conducting an MSc. in Statistics at Imperial College London.
 
-- title: Talks
+- title: Invited talks
   type: time_table
   contents:
     - year: 2025
       description:
-        - ICLR, FPI @ICLR, NeurIPS
+        - Conference on Uncertainty in Artificial Intelligence (UAI 2025), Rio de Janeiro, Brazil (July 2025).
+    - year: 2025
+      description:
+        - Statistics Seminar at the University of Glasgow, UK (May 2025).
+    - year: 2025
+      description:
+        - 2nd RSS Workshop on Gradient Flows for Sampling, Inference, and Learning at the Alan Turing Institute, London, UK (March 2025). 
     - year: 2024
       description:
-        - ICML (<b>Top Reviewer</b>), NeurIPS, TMLR
-    - year: 2023
+        - Natural Science Showcase Imperial College London, UK (the Mathematics department selected two PhDs) (September 2024).
+    - year: 2024
       description:
-        - AISTATS, SPIGM @ICML, NeurIPS (<b>Top Reviewer</b>), UAI, TMLR
-    - year: 2022
+        - Mary Lister McCammon Summer Undergrad Research Fellows, Imperial College London, UK (August 2024, July 2025).
+
+- title: Outreach
+  type: time_table
+  contents:
+    - year: 2025
       description:
-        - NeurIPS
+        - Girls in Maths Open Day, Imperial College London (March and July 2025).
+    - year: 2024
+      description:
+        - Oxford Maths Festival (May 2024).
+    - year: 2024
+      description:
+        - Imperial College London Maths School (May 2024).
+    - year: 2023-2024
+      description:
+        - Organiser of the weekly Junior Stats Seminar at Imperial College London (2023-2024).
 
 
 
