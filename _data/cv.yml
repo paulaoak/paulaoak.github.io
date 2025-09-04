@@ -17,13 +17,12 @@
       description:
         - Under the supervision of <a href="https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en">Andrew Duncan</a> and <a href="https://akyildiz.me/">Deniz Akyildiz</a>.
         - Generative modelling, sampling, machine learning theory, diffusion models, Markov Chain Monte Carlo methods, SDEs, AI4Science.
-        - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>)}.
-        - "Teaching Assistant: Computational Statistics, Statistical Modelling, Probability, Calculus."
+        - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>).
         - title: Papers
           contents:
-            - 1 ICLR workshop paper
-            - 1 AISTATS paper
             - 1 UAI paper (Oral)
+            - 1 AISTATS paper
+            - 1 ICLR workshop paper
     - title: MSc. in Statistics
       institution: Imperial College London, UK
       year: 2022-2023
