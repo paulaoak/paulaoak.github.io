@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-#### [MSc in Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/), Imperial College London (2024-now)
+#### MSc in Statistics, Imperial College London (2024-now)
 
 Teaching assistant for Computational Statistics and Probability Theory courses.
 
