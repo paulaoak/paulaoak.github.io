@@ -18,10 +18,11 @@ announcements:
 
 ---
 
-Hello ! I am a third-year PhD candidate in Machine Learning at [Centre de Mathématiques Appliquées](https://cmap.ip-paris.fr/) (CMAP) at [École Polytechnique](https://www.polytechnique.edu/), advised by [Alain Durmus](https://alain.perso.math.cnrs.fr/). Prior to this, I graduated with a MSc. degree in Applied Mathematics from École Polytechnique ("[Cycle Ingénieur](https://programmes.polytechnique.edu/cycle-ingenieur-polytechnicien/cycle-ingenieur-polytechnicien)") and a MRes. degree in Mathematics, Vision and Learning ("[MVA](https://www.master-mva.com/)") from [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/).
+Hello ! I am a second-year PhD candidate in Statistics and Machine Learning at Imperial College London and the University of Oxford, where I am fortunate to be advised by [Andrew Duncan](https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en) and [Deniz Akyildiz](https://akyildiz.me/). 
 
-**Current status**. Since mid-March 2025, I have been interning at [Jasper AI](https://www.jasper.ai/), in the French research team, to work on speeding up the inference of diffusion models for large-scale image restoration tasks. I will be returning to my PhD in mid-September 2025.
+Before starting my PhD, I completed a double BSc. degree in ([Mathematics and Physics at Universidad Complutense de Madrid](https://www.elespanol.com/reportajes/20210605/fisica-matematicas-doble-empresas-rifaran-ismael-paula/586442818_0.html)). I then pursued an MSc. in Machine Learning at Universidad Politécnica de Madrid and an MSc. in  ("[Statistics at Imperial College London](https://youtu.be/55vNkwPdUs8)").
 
-**Research interests**. I am interested in the study of problems at the intersection of generative modelling, sampling, dynamic optimal transport and stochastic optimal control (with a special focus on the **Schrödinger Bridge** problem and **score-based diffusion models**). 
+**Open to Opportunities**. I am seeking research internships for summer 2026. Please feel free to reach out!
 
-**Environmental awareness**. Similarly to many researchers in machine learning, I feel concerned by the environmental impact of our research field, especially about the unsustainable circumstances of centralized worldwide conferences (which are getting bigger and bigger). This has motivated me to join the Neurips@Paris initiative. Feel free to reach me out about this topic !
+**Research interests**. 
+My research focuses on problems at the intersection of generative modelling, sampling, diffusion processes, stochastic differential equations (SDEs), and machine learning theory. I am particularly interested in establishing theoretical guarantees for machine learning algorithms and developing principled methodologies informed by these insights. Always happy to discuss these topics!
