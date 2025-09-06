@@ -30,7 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-excited-to-have-been-selected-as-a-finalist-for-stem-for-britain-2025-i-will-be-presenting-my-research-at-the-house-of-pariliament-in-march",
+        },{id: "news-excited-to-have-been-selected-as-a-finalist-for-stem-for-britain-2025-i-will-be-presenting-my-research-at-the-house-of-parliament-in-march",
           title: 'Excited to have been selected as a finalist for STEM for BRITAIN 2025....',
           description: "",
           section: "News",},{id: "news-i-have-been-invited-to-give-a-talk-at-the-2nd-rss-workshop-on-gradient-flows-for-sampling-inference-and-learning-at-the-alan-turing-institute-in-london-uk-i-will-talk-about-my-latest-work-non-asymptotic-analysis-of-diffusion-annealed-langevin-monte-carlo-for-generative-modelling-looking-forward-to-discussing-with-everyone-there-update-you-can-watch-a-recording-of-the-talk-here",
