@@ -45,6 +45,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-excited-to-share-that-my-work-has-been-selected-for-an-oral-presentation-at-uai-25-see-you-in-brazil-update-so-happy-to-have-received-the-best-student-paper-award",
           title: 'I am excited to share that my work has been selected for an...',
           description: "",
+          section: "News",},{id: "news-i-ll-be-presenting-my-work-sampling-by-averaging-at-neurips-looking-forward-to-connect",
+          title: 'I’ll be presenting my work Sampling by averaging at Neurips. Looking forward to...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
