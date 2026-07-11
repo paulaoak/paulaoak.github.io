@@ -16,7 +16,7 @@
       year: 2023-now
       description:
         - Under the supervision of <a href="https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en">Andrew Duncan</a> and <a href="https://akyildiz.me/">Deniz Akyildiz</a>.
-        - Generative modelling, sampling, machine learning theory, diffusion models, Markov Chain Monte Carlo methods, SDEs, AI4Science.
+        - Generative modelling, active learning, post-training, uncertainty quantification, evaluations.
         - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>).
         - title: Papers
           contents:
@@ -47,13 +47,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Student Researcher
+      institution: Google Deepmind, London, UK
+      year: 2026 
+      description:
+        - Project: Efficient model evaluation. Developed a probabilistic framework to improve the efficiency of large-scale model evaluation, achieving up to 70% computational savings on some benchmark while maintaining evaluation quality.
+        - Supervisors: Virginia Aglietti and Silvia Chiappa.
+        - January 2026-July 2026.
     - title: AI Research Intern
       institution: Evotrack, London, UK
       year: 2023 
       description:
-        - Support the R&D team to create a real-time cloud-based application of their existing machine
-          learning models. Participate in research activities on electric vehicle charging infrastructure usage
-          forecasting services. Run simulations to identify better fleet management strategies.
+        - Developed a machine learning forecasting model for energy demand in electric vehicle charging infrastructure using real-time data, improving energy distribution efficiency and reducing energy waste by 50%.
         - June 2023-September 2023.
     - title: Machine Learning Research Intern
       institution: <a href="https://www.titaniumindustrialsecurity.com/index_en.html">Titanium Industrial Cybersecurity</a>, Madrid, Spain
@@ -103,6 +108,12 @@
 - title: Invited talks
   type: time_table
   contents:
+    - year: 2026
+      description:
+        - 2026 Institute for Mathematical and Statistical Science (IMSS) Annual Lecture.
+    - year: 2026
+      description:
+        - Flatiron Machine Learning Seminar.
     - year: 2026
       description:
         - “Advances in MCMC Sampling Methods” minisymposium, SIAM UQ, Minnesota, US (March 2026).
