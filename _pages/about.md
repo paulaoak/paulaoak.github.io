@@ -18,7 +18,7 @@ announcements:
 
 ---
 
-Hello ! I am a third-year PhD candidate in Machine Learning at Imperial College London and the University of Oxford, where I am fortunate to be advised by [Andrew Duncan](https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en) and [Deniz Akyildiz](https://akyildiz.me/). 
+Hello ! I'm a third-year PhD candidate in Machine Learning at Imperial College London and the University of Oxford, where I am fortunate to be advised by [Andrew Duncan](https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en) and [Deniz Akyildiz](https://akyildiz.me/). I'm also a Student Researcher at Google Deepmind working [Virginia Aglietti](https://www.linkedin.com/in/virginia-aglietti-a80321a4/) and [Silvia Chiappa](https://csilviavr.github.io/)
 
 Before starting my PhD, I completed a double BSc. degree in [Mathematics and Physics at Universidad Complutense de Madrid](https://www.elespanol.com/reportajes/20210605/fisica-matematicas-doble-empresas-rifaran-ismael-paula/586442818_0.html). I then pursued an MSc. in Artificial Intelligence at Universidad Politécnica de Madrid and an MSc. in  [Statistics at Imperial College London](https://youtu.be/55vNkwPdUs8) thanks to a [La Caixa Fellowship](https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787).
 
