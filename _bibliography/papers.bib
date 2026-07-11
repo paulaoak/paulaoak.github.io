@@ -1,4 +1,15 @@
 @misc{corderoencinar2025certified,
+    title = {Soft Specialists: α-Renyi Ensembles for Uncertainty-Aware LLM Post-Training},
+    author = {Paula Cordero-Encinar, Georgy Tyukin and Andrew Duncan},
+    year = 2026,
+    journal = {arXiv},
+    abbr = {arXiv},
+    abstract = {Modern post-training methods for large language models  learn a single adapted parameter vector, forcing heterogeneous data, conflicting preferences, and epistemic uncertainty into one behavioural compromise. We propose an α-Renyi variational framework for learning distributions over post-training parameters, with a specific focus on uncertainty quantification for large language models, offering a principled alternative to deep ensemble approaches. The resulting objective interpolates between classical variational Bayes and predictively oriented posterior learning. The interpolation parameter α balances globally plausible individual models against complementary specialists. We analyse this objective identifying local stability criteria which demonstrate how model misspecification can make non-degenerate posterior spread locally favourable,  manifesting contradictory or conflicting data as predictive uncertainty.  We apply our framework to LLM post-training by learning an ensemble of LoRA adapters attached to a shared, frozen base model. We develop a scalable, finite-particle training procedure for both supervised fine-tuning and preference optimization. This approach enables training examples to be softly routed across particles, explicitly promoting model specialization and improving uncertainty awareness across different experiments.}
+    pdf = {https://arxiv.org/pdf/2605.27747},
+    selected = {true}
+}
+
+@misc{corderoencinar2025certified,
     title = {Certified Self-Consistency: Statistical Guarantees and Test-Time Training for Reliable Reasoning in LLMs},
     author = {Paula Cordero-Encinar and Andrew Duncan},
     year = 2025,
@@ -22,7 +33,7 @@
     Providing existence and uniqueness of the solution to the annealed Langevin diffusion leads to proving a Poincar\'e inequality for the conditional distribution of $X$ knowing $X+Z=y$ uniformly in $y$, as recently observed by one of us and her coauthors.
     Part of this work is thus devoted to the study of such Poincar\'e inequalities. Additionally we show that strengthening the Poincar\'e inequality into a logarithmic Sobolev inequality improves the efficiency of the model.},
     pdf = {https://arxiv.org/pdf/2511.10406},
-    selected = {true}
+    selected = {false}
 }
 
 @misc{corderoencinar2025samplingbyaveraging,
@@ -61,7 +72,7 @@
     abstract = {We investigate the theoretical properties of general diffusion (interpolation) paths and their Langevin Monte Carlo implementation, referred to as diffusion annealed Langevin Monte Carlo (DALMC), under weak conditions on the data distribution. Specifically, we analyse and provide non-asymptotic error bounds for the annealed Langevin dynamics where the path of distributions is defined as Gaussian convolutions of the data distribution as in diffusion models. We then extend our results to recently proposed heavy-tailed (Student's t) diffusion paths, demonstrating their theoretical properties for heavy-tailed data distributions for the first time. Our analysis provides theoretical guarantees for a class of score-based generative models that interpolate between a simple distribution (Gaussian or Student's t) and the data distribution in finite time. This approach offers a broader perspective compared to standard score-based diffusion approaches, which are typically based on a forward Ornstein-Uhlenbeck (OU) noising process.},
     pdf = {https://arxiv.org/pdf/2502.09306},
     slides = {gradients_flow_RSS_slides.pdf},
-    selected = {true} 
+    selected = {false} 
 }
 
 

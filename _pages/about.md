@@ -25,5 +25,4 @@ Before starting my PhD, I completed a double BSc. degree in [Mathematics and Phy
 **Research interests**. 
 My current research interests lie at the intersection of generative modelling, post-training, and evaluation. I am particularly interested in designing robust evaluation frameworks that capture emergent model capabilities and can adapt to their own obsolescence. I am also interested in improving the efficiency and scalability of large-scale evaluation. In addition, I am exploring how model uncertainty can be leveraged to design more effective reward functions for post-training.
 
-# My research focuses on problems at the intersection of generative modelling, sampling, diffusion processes, stochastic differential equations (SDEs), machine learning theory, uncertainty quantification and AI4Science. I am particularly interested in establishing theoretical guarantees for machine learning algorithms and developing principled methodologies informed by these insights. Nowadays, I also think a lot about decision-making under uncertainty and sampling efficiency. Always happy to discuss these topics!
 
