@@ -51,8 +51,8 @@
       institution: Google Deepmind, London, UK
       year: 2026 
       description:
-        - Project: Efficient model evaluation. Developed a probabilistic framework to improve the efficiency of large-scale model evaluation, achieving up to 70% computational savings on some benchmark while maintaining evaluation quality.
-        - Supervisors: Virginia Aglietti and Silvia Chiappa.
+        - Efficient model evaluation. Developed a probabilistic framework to improve the efficiency of large-scale model evaluation, achieving up to 70% computational savings on some benchmark while maintaining evaluation quality.
+        - Supervised by Virginia Aglietti and Silvia Chiappa.
         - January 2026-July 2026.
     - title: AI Research Intern
       institution: Evotrack, London, UK
