@@ -20,7 +20,7 @@
         - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>).
         - title: Papers
           contents:
-            - 1 NeurIPS paper
+            - 2 NeurIPS paper
             - 1 UAI paper (Oral)
             - 1 AISTATS paper
             - 1 ICLR workshop paper
@@ -47,12 +47,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern - Machine Learning and Statistics
+      institution: MSR New England, MA, USA
+      year: 2026 
+      description:
+        - Investigating training methods based on attention approximations with theoretical guarantees to extend model context length and improve computational efficiency.
+        - Supervised by Lester Mackey and Carles Domingo Enrich.
+        - July 2026-November 2026.
     - title: Student Researcher
       institution: Google Deepmind, London, UK
       year: 2026 
       description:
         - Efficient model evaluation. Developed a probabilistic framework to improve the efficiency of large-scale model evaluation, achieving up to 70% computational savings on some benchmark while maintaining evaluation quality.
-        - Supervised by Virginia Aglietti and Silvia Chiappa.
+        - Supervised by Virginia Aglietti, Silvia Chiappa and Arnaud Doucet.
         - January 2026-July 2026.
     - title: AI Research Intern
       institution: Evotrack, London, UK
@@ -91,6 +98,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - The Doris Chen PhD Award (Winner) Imperial College London.
     - year: 2025
       items:
         - QRT PhD Prize (Winner) Imperial College London.
@@ -108,6 +118,12 @@
 - title: Invited talks
   type: time_table
   contents:
+    - year: 2026
+      description:
+        - Emerging Directions in Probabilistic Modeling, Flatiron Institute x IBM, New York.
+    - year: 2026
+      description:
+        - Generative Modeling & Sampling Workshop, Microsoft Research New England.
     - year: 2026
       description:
         - 2026 Institute for Mathematical and Statistical Science (IMSS) Annual Lecture.
