@@ -6,6 +6,10 @@
   - firstname: ["Deniz", "Deniz Akyildiz"]
     url: https://akyildiz.me/
 
+"guillin":
+  - firstname: ["Arnaud", "Arnaud Guillin"]
+    url: https://lmbp.uca.fr/~guillin/
+
 "schroeder":
   - firstname: ["Tobias", "Tobias Schröder", "Tobias Schroeder"]
     url: https://tobias-schroeder.github.io/
