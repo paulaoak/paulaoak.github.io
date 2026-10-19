@@ -16,7 +16,7 @@
       year: 2023-now
       description:
         - Under the supervision of <a href="https://scholar.google.com/citations?user=3ZzC72cAAAAJ&hl=en">Andrew Duncan</a> and <a href="https://akyildiz.me/">Deniz Akyildiz</a>.
-        - Generative modelling, active learning, post-training, uncertainty quantification, evaluations.
+        - Generative modelling, sampling, machine learning theory, diffusion models, gradient flows and kernel methods.
         - Fully funded within the EPSRC Center for Doctoral Training in Statistics and Machine Learning (<a href="https://statml.io/">StatML CDT</a>).
         - title: Papers
           contents:
