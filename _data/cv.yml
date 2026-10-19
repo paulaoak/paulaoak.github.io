@@ -31,13 +31,13 @@
         - Top 1%, Winton prize for the best student in the MSc.
         - <a href="https://becarios.fundacionlacaixa.org/en/paula-cordero-encinar-B005787">La Caixa Fellowship</a> (Competitive scholarship awarded to only 100 scholars across all disciplines from all over Spain and Portugal to fully fund their studies).
         - MSc student representative.
-    - title: MSc. in Artificial Intelligence 
+    - title: MSc. in Artificial Intelligence
       institution: Universidad Politécnica de Madrid, Spain
       year: 2021 - 2022
       description:
         - José Cuena Award (Top student of the year 9.74/10).
         - Scholarship for collaboration in university departments (Spanish Ministry of Education).
-    - title: BSc. in Mathematics and Physics (Double Degree) 
+    - title: BSc. in Mathematics and Physics (Double Degree)
       institution: Universidad Complutense de Madrid, Spain
       year: 2016 - 2021
       description:
@@ -49,21 +49,21 @@
   contents:
     - title: Research Intern - Machine Learning and Statistics
       institution: MSR New England, MA, USA
-      year: 2026 
+      year: 2026
       description:
         - Investigating training methods based on attention approximations with theoretical guarantees to extend model context length and improve computational efficiency.
         - Supervised by Lester Mackey and Carles Domingo Enrich.
         - July 2026-November 2026.
     - title: Student Researcher
       institution: Google Deepmind, London, UK
-      year: 2026 
+      year: 2026
       description:
         - Efficient model evaluation. Developed a probabilistic framework to improve the efficiency of large-scale model evaluation, achieving up to 70% computational savings on some benchmark while maintaining evaluation quality.
         - Supervised by Virginia Aglietti, Silvia Chiappa and Arnaud Doucet.
         - January 2026-July 2026.
     - title: AI Research Intern
       institution: Evotrack, London, UK
-      year: 2023 
+      year: 2023
       description:
         - Developed a machine learning forecasting model for energy demand in electric vehicle charging infrastructure using real-time data, improving energy distribution efficiency and reducing energy waste by 50%.
         - June 2023-September 2023.
@@ -144,7 +144,7 @@
         - Statistics Seminar at the University of Glasgow, UK (May 2025).
     - year: 2025
       description:
-        - 2nd RSS Workshop on Gradient Flows for Sampling, Inference, and Learning at the Alan Turing Institute, London, UK (March 2025). 
+        - 2nd RSS Workshop on Gradient Flows for Sampling, Inference, and Learning at the Alan Turing Institute, London, UK (March 2025).
     - year: 2025
       description:
         - Statistics Seminar at the University of Warwick, UK (February 2025).
@@ -173,8 +173,6 @@
     - year: 2023-2024
       description:
         - Organiser of the weekly Junior Stats Seminar at Imperial College London (2023-2024).
-
-
 
 - title: Other Interests
   type: list
