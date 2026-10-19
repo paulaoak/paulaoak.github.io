@@ -48,7 +48,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-ll-be-presenting-my-work-sampling-by-averaging-at-neurips-looking-forward-to-connect",
           title: 'I’ll be presenting my work Sampling by averaging at Neurips. Looking forward to...',
           description: "",
-          section: "News",},{id: "news-i-have-been-invited-to-give-a-talk-at-the-2026-institute-for-mathematical-and-statistical-science-imss-annual-lecture-i-ll-be-talking-a-new-preprint-on-certified-self-consistency-tldr-develops-a-unified-framework-of-when-self-consistency-yields-certifiable-reliability-in-reasoning-models-and-introduces-automated-reward-signals-to-reduce-the-computational-cost-of-this-certification",
+          section: "News",},{id: "news-i-have-been-invited-to-give-a-talk-at-the-2026-institute-for-mathematical-and-statistical-science-imss-annual-lecture-i-ll-be-talking-about-a-new-preprint-on-certified-self-consistency-tldr-develops-a-unified-framework-of-when-self-consistency-yields-certifiable-reliability-in-reasoning-models-and-introduces-automated-reward-signals-to-reduce-the-computational-cost-of-this-certification",
           title: 'I have been invited to give a talk at the 2026 Institute for...',
           description: "",
           section: "News",},{id: "news-new-preprint-out-on-uncertainty-aware-llm-post-training-tldr-introduces-a-scalable-framework-that-replaces-standard-single-point-llm-post-training-with-an-ensemble-of-lora-adapters-enabling-explicit-uncertainty-quantification-and-model-specialisation",
